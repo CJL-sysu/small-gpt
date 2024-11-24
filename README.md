@@ -32,4 +32,10 @@ python train.py config/default.yaml
 python chat.py config/default.yaml
 ```
 
-![demo](assets/demo1.jpg)
+## demo
+
+![demo1](assets/demo1.jpg)
+
+![demo2](assets/demo2.jpg)
+
+![demo3](assets/demo3.jpg)
